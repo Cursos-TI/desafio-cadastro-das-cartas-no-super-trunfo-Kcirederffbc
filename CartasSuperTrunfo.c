@@ -66,7 +66,7 @@ printf ("População: %d\n", populacao);
 printf ("Pontos turísticos: %d\n", p_turisticos);
 printf ("Àrea: %f\n", area);
 printf ("PIB: %f\n", pib);
-
+printf ("\n");
 printf ("Carta 2\n");
 printf ("Estado: %s\n", estado2);
 printf ("Código de Carda: %s \n", cdc2);
